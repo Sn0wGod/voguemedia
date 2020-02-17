@@ -1,0 +1,61 @@
+
+.navbar-brand{
+  font-size: 30px;
+}
+.navbar-nav{
+  font-size: 20px;
+}
+.top{
+  height:100px;
+  width: 250px;
+}
+.j1{
+  background-image: url(images/dark-planet.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 720px;
+
+}
+.j2{
+  background-image: url(images/download.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 800px;
+
+}
+.j3{
+  background-image: url(images/light.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 800px;
+
+}
+.white{
+  color: white;
+}
+.p1{
+  font-size: 45px;
+  text-align: left;
+}
+.jumbotron{
+  margin-bottom: 0;
+}
+.mission{
+  color: red;
+  text-decoration: underline;
+}
+.active{
+  margin: 20px;
+  font-weight: bold;
+  font-family: 'Montserrat', sans-serif;
+}
+.aa{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.b1{
+  font-family: 'Roboto Condensed', sans-serif;
+}

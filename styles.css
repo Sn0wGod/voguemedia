@@ -33,6 +33,17 @@
   height: 800px;
 
 }
+@media screen and (max-width: 480px) {
+  .j1{
+    height: 1000px;
+  }
+  .j2{
+    height: 1500px;
+  }
+  .j3{
+    height: 1600px;
+  }
+}
 .white{
   color: white;
 }
@@ -58,4 +69,7 @@
 }
 .b1{
   font-family: 'Roboto Condensed', sans-serif;
+}
+.left{
+  text-align: left;
 }

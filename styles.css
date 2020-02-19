@@ -1,6 +1,6 @@
 
 .navbar-brand{
-  font-size: 30px;
+  font-size: 20px;
 }
 .navbar-nav{
   font-size: 20px;
@@ -10,7 +10,7 @@
   width: 250px;
 }
 .j1{
-  background-image: url(images/dark-planet.jpg);
+  background-image: url(images/page1.jpeg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -18,7 +18,7 @@
 
 }
 .j2{
-  background-image: url(images/download.jpg);
+  background-image: url(images/page2.jpeg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -26,11 +26,51 @@
 
 }
 .j3{
-  background-image: url(images/light.jpg);
+  background-image: url(images/page3.jpeg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   height: 800px;
+
+}
+.j4{
+  background-image: url(images/Services_1.jpeg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 800px;
+
+}
+.j5{
+  background-image: url(images/Services_2.jpeg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 950px;
+
+}
+.j6{
+  background-image: url(images/Services_3.jpeg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 900px;
+
+}
+.j7{
+  background-image: url(images/Services_4.jpeg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 800px;
+
+}
+.j8{
+  background-image: url(images/contactus.jpeg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 500px;
 
 }
 @media screen and (max-width: 900px) {
@@ -41,7 +81,22 @@
     height: 1500px;
   }
   .j3{
-    height: 2000px;
+    height: 1800px;
+  }
+  .j4{
+    height: 1700px;
+  }
+  .j5{
+    height: 1800px;
+  }
+  .j6{
+    height: 1500px;
+  }
+  .j7{
+    height: 1500px;
+  }
+  .j8{
+    height: 1700px;
   }
 }
 .white{
@@ -68,8 +123,72 @@
   margin-bottom: 20px;
 }
 .b1{
-  font-family: 'Roboto Condensed', sans-serif;
+
+  font-family:'Cambria';
+}
+.b2{
+  font-family: 'Times New Roman';
 }
 .left{
   text-align: left;
+}
+.backc{
+  background-color: white;
+}
+.underline{
+  text-decoration: underline;
+}
+.red{
+  color: red;
+}
+.lineheight{
+  line-height: 1;
+}
+.margin-bottom{
+  margin-bottom: 2px;
+}
+.feat{
+  width: 20%;
+  border-radius: 10%;
+  margin-right: 0;
+  text-align: center;
+}
+.f{
+  text-align: right;
+}
+.cen{
+  text-align: center;
+  font-size: 40px;
+}
+.btn{
+  width: 50%;
+  margin-left: 20%;
+}
+.form-control{
+  text-align: center;
+  border-color: black;
+  border-radius: 10%;
+  background: transparent;
+}
+.borders{
+  border-color: black;
+  border-radius: 10%;
+  background: transparent;
+}
+.bigsize{
+  font-size: 40px;
+}
+.bord{
+  border-color: grey;
+  border-width: 5px;
+}
+.bigsize{
+  opacity: 0.8;
+}
+.op{
+  opacity: 0.2;
+}
+.imgs{
+  height: 80%;
+  width: 100%;
 }
